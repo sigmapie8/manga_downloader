@@ -4,5 +4,4 @@ Check for updates and download the mangas you're interested in, in pdf format.
 * Maintains records in json
 
 Format for json file:
-
 "<manga_name>": {"url": "<address of the manga homepage on mangabat>", "last_chapter": "chapter_<numbe>"}
